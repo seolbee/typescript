@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "",
+        "allowJs": true,
+        "target":"ES6",
+        "moduleResolution": "node"
+    },
+    "include": ["*", "./routes/*", "./public/js/*", "./API/*", "./model/*", "./sse/*", "./socket/*"]
+}
